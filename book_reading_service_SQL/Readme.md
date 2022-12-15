@@ -1,6 +1,6 @@
-## Data analysis of the book reading service SQL
+## Data analysis of the book reading service (SQL)
 
-## Анализ данных сервиса для чтения книг SQL
+## Анализ данных сервиса для чтения книг (SQL)
 
 ### Цель
 Выполнить анализ данных, согласно заданию:
