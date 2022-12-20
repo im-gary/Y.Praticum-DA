@@ -1,7 +1,7 @@
 # Y.Praticum-DA
 Projects completed within the date analytics course
 
-Please use [NBviewer](https://nbviewer.org/github/im-gary/) to view all visualizations based on plotly
+Please use [NBviewer](https://nbviewer.org/github/im-gary/) to view all visualizations based on plotly, folium
 
  
 ## Projects Descriptions
